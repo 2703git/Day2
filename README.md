@@ -8,3 +8,15 @@
 This repository contains my code on arithmetic problems, written in Java language.
 
 challenge day 2/30
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/2703git/Day2/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/2703git/Day2/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
