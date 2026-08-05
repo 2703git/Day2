@@ -19,4 +19,17 @@ challenge day 2/30
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/2703git/Day2/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/2703git/Day2/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/2703git/Day2/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/2703git/Day2/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/2703git/Day2/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
