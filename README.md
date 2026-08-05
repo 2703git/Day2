@@ -21,6 +21,7 @@ challenge day 2/30
 | [0066-plus-one](https://github.com/2703git/Day2/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/2703git/Day2/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/2703git/Day2/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/2703git/Day2/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/2703git/Day2/tree/master/0258-add-digits) |
 ## String
 |  |
@@ -30,6 +31,7 @@ challenge day 2/30
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/2703git/Day2/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/2703git/Day2/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -47,4 +49,8 @@ challenge day 2/30
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/2703git/Day2/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/2703git/Day2/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
