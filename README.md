@@ -21,6 +21,7 @@ challenge day 2/30
 | [0066-plus-one](https://github.com/2703git/Day2/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/2703git/Day2/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/2703git/Day2/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/2703git/Day2/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ challenge day 2/30
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/2703git/Day2/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/2703git/Day2/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +43,8 @@ challenge day 2/30
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/2703git/Day2/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/2703git/Day2/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
