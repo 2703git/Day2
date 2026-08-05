@@ -20,6 +20,7 @@ challenge day 2/30
 | ------- |
 | [0066-plus-one](https://github.com/2703git/Day2/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/2703git/Day2/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/2703git/Day2/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -32,4 +33,12 @@ challenge day 2/30
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/2703git/Day2/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/2703git/Day2/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/2703git/Day2/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
